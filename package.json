@@ -10,9 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@stripe/stripe-react-native": "^0.19.0",
+    "cd": "^0.3.3",
+    "ios": "^0.0.1",
     "react": "17.0.2",
     "react-native": "0.68.0",
-    "react-native-document-picker": "^8.1.1"
+    "react-native-document-picker": "^8.1.1",
+    "react-native-dotenv": "^3.3.1"
   },
   "devDependencies": {
     "@babel/core": "7.19.1",
